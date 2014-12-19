@@ -8,7 +8,6 @@
 ###目录说明
     |-Application   示例目录
     |-index.php 项目入口文件
-    |-Public    项目公共目录
     |-ThinkPHP  框架系统目录
     |-chengyu.sql 示例数据表，可直接部署
 
