@@ -31,7 +31,7 @@
 
 
 ###咨询与反馈
-    在部署过程当中，有任何疑问可以直接提交或者发送邮件到 jinsong@weixinhost.com
+    在部署过程当中，有任何疑问可以直接提交issues或者发送邮件到 jinsong@weixinhost.com
     同时，可以在 http://open.weixinhost.com 点击下方“咨询反馈”按钮进行技术客服对话
 
 
